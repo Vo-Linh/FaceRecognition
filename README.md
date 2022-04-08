@@ -3,7 +3,7 @@
 ## Usage
 
 ### Part:1 Create file csv path
-Generates a csv file containing the image paths of the glint360k dataset for use in triplet selection in
+Generates a csv file containing the image paths of the WebFace dataset for use in triplet selection in
 triplet loss training.
 
 In folder dataset/generate_csv_file
